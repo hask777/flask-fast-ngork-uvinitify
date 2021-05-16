@@ -36,7 +36,7 @@ def scrape_brands():
 
             list_brands.append(brands_dict)
 
-    print(list_brands)
+    # print(list_brands)
 
     return list_brands
 
