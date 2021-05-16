@@ -15,7 +15,7 @@ def scrape_brands():
     brandlist = soup.find('ul', class_='brandslist')
 
     lis = soup.find_all('li', class_="brandsitem")
-    print(lis)
+    # print(lis)
 
     brands_dict = {}
     list_brands = []
@@ -32,16 +32,13 @@ def scrape_brands():
                 'cars_count': int(cars_count)
             }
 
-        # print(brands_dict)
+            # print(brands_dict)
 
             list_brands.append(brands_dict)
 
     print(list_brands)
 
-
     return list_brands
-
-
 
 def dump_json():
     

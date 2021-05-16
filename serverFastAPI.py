@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from scrape import scrape_brands
 
 app = FastAPI()
 

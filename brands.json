@@ -9,11 +9,11 @@
     },
     {
         "name": "audi",
-        "cars_count": 3984
+        "cars_count": 3982
     },
     {
         "name": "bmw",
-        "cars_count": 4402
+        "cars_count": 4403
     },
     {
         "name": "buick",
@@ -29,19 +29,19 @@
     },
     {
         "name": "chevrolet",
-        "cars_count": 712
+        "cars_count": 711
     },
     {
         "name": "chrysler",
-        "cars_count": 619
+        "cars_count": 618
     },
     {
         "name": "citroen",
-        "cars_count": 2046
+        "cars_count": 2045
     },
     {
         "name": "dacia",
-        "cars_count": 68
+        "cars_count": 67
     },
     {
         "name": "daewoo",
@@ -53,11 +53,11 @@
     },
     {
         "name": "dodge",
-        "cars_count": 453
+        "cars_count": 452
     },
     {
         "name": "fiat",
-        "cars_count": 980
+        "cars_count": 979
     },
     {
         "name": "ford",
@@ -77,11 +77,11 @@
     },
     {
         "name": "honda",
-        "cars_count": 1026
+        "cars_count": 1027
     },
     {
         "name": "hyundai",
-        "cars_count": 1490
+        "cars_count": 1488
     },
     {
         "name": "infiniti",
@@ -97,11 +97,11 @@
     },
     {
         "name": "kia",
-        "cars_count": 1317
+        "cars_count": 1316
     },
     {
         "name": "lada (ваз)",
-        "cars_count": 1022
+        "cars_count": 1021
     },
     {
         "name": "lancia",
@@ -125,11 +125,11 @@
     },
     {
         "name": "mazda",
-        "cars_count": 1755
+        "cars_count": 1753
     },
     {
         "name": "mercedes-benz",
-        "cars_count": 3345
+        "cars_count": 3342
     },
     {
         "name": "mini",
@@ -141,15 +141,15 @@
     },
     {
         "name": "nissan",
-        "cars_count": 2033
+        "cars_count": 2029
     },
     {
         "name": "opel",
-        "cars_count": 3968
+        "cars_count": 3970
     },
     {
         "name": "peugeot",
-        "cars_count": 2632
+        "cars_count": 2636
     },
     {
         "name": "pontiac",
@@ -177,7 +177,7 @@
     },
     {
         "name": "seat",
-        "cars_count": 419
+        "cars_count": 418
     },
     {
         "name": "skoda",
@@ -201,19 +201,19 @@
     },
     {
         "name": "tesla",
-        "cars_count": 89
+        "cars_count": 88
     },
     {
         "name": "toyota",
-        "cars_count": 1984
+        "cars_count": 1982
     },
     {
         "name": "volkswagen",
-        "cars_count": 6669
+        "cars_count": 6666
     },
     {
         "name": "volvo",
-        "cars_count": 1156
+        "cars_count": 1155
     },
     {
         "name": "газ",
