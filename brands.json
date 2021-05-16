@@ -13,7 +13,7 @@
     },
     {
         "name": "bmw",
-        "cars_count": 4404
+        "cars_count": 4402
     },
     {
         "name": "buick",
@@ -29,11 +29,11 @@
     },
     {
         "name": "chevrolet",
-        "cars_count": 710
+        "cars_count": 707
     },
     {
         "name": "chrysler",
-        "cars_count": 618
+        "cars_count": 617
     },
     {
         "name": "citroen",
@@ -41,7 +41,7 @@
     },
     {
         "name": "dacia",
-        "cars_count": 66
+        "cars_count": 65
     },
     {
         "name": "daewoo",
@@ -49,11 +49,11 @@
     },
     {
         "name": "daihatsu",
-        "cars_count": 29
+        "cars_count": 28
     },
     {
         "name": "dodge",
-        "cars_count": 452
+        "cars_count": 451
     },
     {
         "name": "fiat",
@@ -61,7 +61,7 @@
     },
     {
         "name": "ford",
-        "cars_count": 2991
+        "cars_count": 2994
     },
     {
         "name": "geely",
@@ -97,7 +97,7 @@
     },
     {
         "name": "kia",
-        "cars_count": 1315
+        "cars_count": 1314
     },
     {
         "name": "lada (ваз)",
@@ -105,7 +105,7 @@
     },
     {
         "name": "lancia",
-        "cars_count": 113
+        "cars_count": 114
     },
     {
         "name": "land rover",
@@ -125,11 +125,11 @@
     },
     {
         "name": "mazda",
-        "cars_count": 1750
+        "cars_count": 1749
     },
     {
         "name": "mercedes-benz",
-        "cars_count": 3345
+        "cars_count": 3346
     },
     {
         "name": "mini",
@@ -141,15 +141,15 @@
     },
     {
         "name": "nissan",
-        "cars_count": 2029
+        "cars_count": 2030
     },
     {
         "name": "opel",
-        "cars_count": 3971
+        "cars_count": 3974
     },
     {
         "name": "peugeot",
-        "cars_count": 2634
+        "cars_count": 2635
     },
     {
         "name": "pontiac",
@@ -165,7 +165,7 @@
     },
     {
         "name": "renault",
-        "cars_count": 3416
+        "cars_count": 3414
     },
     {
         "name": "rover",
@@ -177,11 +177,11 @@
     },
     {
         "name": "seat",
-        "cars_count": 417
+        "cars_count": 418
     },
     {
         "name": "skoda",
-        "cars_count": 1236
+        "cars_count": 1234
     },
     {
         "name": "smart",
@@ -189,11 +189,11 @@
     },
     {
         "name": "ssangyong",
-        "cars_count": 137
+        "cars_count": 138
     },
     {
         "name": "subaru",
-        "cars_count": 350
+        "cars_count": 349
     },
     {
         "name": "suzuki",
@@ -205,11 +205,11 @@
     },
     {
         "name": "toyota",
-        "cars_count": 1975
+        "cars_count": 1969
     },
     {
         "name": "volkswagen",
-        "cars_count": 6662
+        "cars_count": 6664
     },
     {
         "name": "volvo",

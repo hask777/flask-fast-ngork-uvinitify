@@ -1,4 +1,7 @@
+import os
+import datetime
 from fastapi import FastAPI
+from logger import trigger_log_save
 from scrape import scrape_brands
 from scrape import dump_json
 
@@ -10,6 +13,7 @@ def home_view():
 
 @app.post("/abc")
 def get_brands():
+    trigger_log_save()
     scrape_brands()
     dump_json()
     return {"data": scrape_brands()}

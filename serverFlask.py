@@ -1,4 +1,5 @@
 from flask import Flask
+from logger import trigger_log_save
 from scrape import scrape_brands
 from scrape import dump_json
 
@@ -10,6 +11,7 @@ def av_brands():
 
 @app.route("/abc", methods=['POST'])
 def av_parse():
+    trigger_log_save()
     scrape_brands()
     dump_json()
     return "Done"
