@@ -1,1 +1,1 @@
-uvicorn serverFastAPI:app --port 8888
+uvicorn serverFastAPI:app --port 8000
