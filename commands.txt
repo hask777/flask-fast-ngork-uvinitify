@@ -1,0 +1,5 @@
+1. python3 -m pip install pipenv
+2. pipenv shell --python 3.9  # Create virtualenviroment restart: pipenv shell
+3. pipenv install flask gunicorn uvicorn fastapi
+4. chmod +r runfastapi.sh
+5. chmod +r runflask.sh
